@@ -56,7 +56,7 @@ function Sidebar() {
         
     }
   return (
-    <div className="flex flex-col justify-between bg-white w-72 min-h-screen px-2">
+    <div className="h-screen sticky top-0 flex flex-col justify-between bg-white w-72 min-h-screen px-2">
     
         <div>
             <div className="mt-1 mb-4 ml-1 flex items-center justify-center hover:bg-gray-lightest w-11 h-11 rounded-full cursor-pointer transform transition-colors duration-300">

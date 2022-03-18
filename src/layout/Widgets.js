@@ -10,7 +10,7 @@ function Widgets() {
         <SearchIcon className="" />
         <input
           type="text"
-          placeHolder="Search Twitter"
+          placeholder="Search Twitter"
           className=" placeolder-gray-dark bg-transparent focus:outline-none w-full text-sm"></input>
       </div>
       <div className="mt-5">
