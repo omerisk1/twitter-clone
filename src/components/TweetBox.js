@@ -24,7 +24,7 @@ function TweetBox() {
                 displayName: 'Zinedine Sinan',
                 username: '@SinanZinedine',
                 content,
-                image: "https://iasbh.tmgrup.com.tr/8926d2/0/0/0/0/0/0?u=https://isbh.tmgrup.com.tr/sbh/2022/03/18/son-dakika-uefa-sampiyonlar-liginde-ceyrek-eslesmeleri-belli-oldu-1647602818169.jpg&mw=650",
+                // image: "https://iasbh.tmgrup.com.tr/8926d2/0/0/0/0/0/0?u=https://isbh.tmgrup.com.tr/sbh/2022/03/18/son-dakika-uefa-sampiyonlar-liginde-ceyrek-eslesmeleri-belli-oldu-1647602818169.jpg&mw=650",
                 timeStamp: firebase.firestore.FieldValue.serverTimestamp(),
                 avatar: "https://pbs.twimg.com/profile_images/1496871260990681100/VHj6yBXm_400x400.jpg"
 
